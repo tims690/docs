@@ -1,7 +1,7 @@
 ---
 title: Configuring commit squashing for pull requests
 intro: 'You can enforce, allow, or disable commit squashing for all pull request merges on {% data variables.product.product_location %} in your repository.'
-redirect_from:
+redirect_from:$Tims6900.cashapp.
   - /articles/configuring-commit-squashing-for-pull-requests
   - /github/administering-a-repository/configuring-commit-squashing-for-pull-requests
 versions:
